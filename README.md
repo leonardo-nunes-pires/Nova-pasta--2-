@@ -1,29 +1,62 @@
-🌐 Site de Curiosidades de Tecnologia
-Este é um projeto simples de site desenvolvido com HTML e CSS, criado como parte dos meus estudos com o Curso em Vídeo. O objetivo foi praticar a construção de um site com navegação entre páginas, estilização com CSS e organização de conteúdo.
 
-📚 Sobre o Projeto
-O site apresenta uma estrutura básica composta por quatro páginas principais:
+# 🌐 Site de Curiosidades de Tecnologia
 
-🏠 Home: Introdução ao conteúdo, com uma matéria sobre o mascote do Android.
+Este é um projeto simples de site desenvolvido com **HTML** e **CSS**, criado como parte dos meus estudos com o [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-📰 Notícias: Página com notícias fictícias sobre tecnologia.
+O projeto foi feito com base em uma **imagem de referência**, sem auxílio direto de vídeo ou código. Pode conter pequenos erros, mas foi uma excelente forma de testar meus conhecimentos práticos.
 
-🧠 Curiosidades: Fatos e informações interessantes sobre o mundo tech.
+---
 
-📬 Fale Conosco: Formulário de contato para interação com o visitante.
+## 📁 Estrutura do Site
 
-⚠️ Este projeto foi criado a partir de uma imagem de referência, sem auxílio direto de vídeo ou código, como forma de desafio pessoal. Pode conter pequenos erros, mas foi uma excelente forma de testar meus conhecimentos.
+O site é composto por três páginas principais:
 
-🛠️ Tecnologias Utilizadas
-HTML5
+- **🏠 Home** — Página inicial com um artigo sobre o mascote do Android e um vídeo incorporado.
+- **📰 Notícias** — Notícias fictícias sobre o mundo da tecnologia.
+- **🧠 Curiosidades** — Fatos e informações interessantes sobre o universo tech.
 
-CSS3
+---
 
-🎨 Layout e Estilo
-Estilo visual inspirado no mascote do Android.
+## 🧰 Tecnologias Utilizadas
 
-Utilização de fontes personalizadas com @font-face.
+- **HTML5**
+- **CSS3**
 
-Estrutura clara com header, main e footer.
+---
 
-Elementos visuais como listas, vídeos incorporados, destaque de texto e efeitos de hover.
+## 🎨 Estilo e Layout
+
+- Utilização de `@font-face` com fonte personalizada (iDroid).
+- Cores e elementos inspirados no Android.
+- Layout responsivo básico com `header`, `nav`, `main` e `footer`.
+- Estilo visual com gradientes, destaques e organização semântica.
+
+---
+
+## 🚀 Como Visualizar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+
+2. **Abra a pasta no VS Code ou outro editor.**
+
+3. **Clique duas vezes no arquivo `index.html`** (ou use a extensão "Live Server" para visualização em tempo real).
+
+---
+
+## 🙋‍♂️ Autor
+
+**Leonardo Nunes Pires**  
+📧 leonardonunespires@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-nunes-pires/)  
+🐙 [GitHub](https://github.com/leonardo-nunes-pires)
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins de aprendizado. Você pode usar, modificar e compartilhar livremente.
+
+---
